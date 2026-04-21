@@ -69,8 +69,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn streamlit
 Put your datasets inside the project folder:
 
 ```
-fear_greed.csv
-hyperliquid_trades.csv
+fear_greed_index.csv
+historical_data.csv
 ```
 
 ---
