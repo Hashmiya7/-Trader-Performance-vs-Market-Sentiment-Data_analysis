@@ -31,37 +31,6 @@ The goal is to uncover patterns that can help design **better trading strategies
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 🔹 1. Clone the Repository
-
-```bash
-git clone <your-repo-link>
-cd <project-folder>
-```
-
-### 🔹 2. Create Virtual Environment (Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate      # Mac/Linux
-venv\Scripts\activate         # Windows
-```
-
-### 🔹 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-If you don’t have a requirements file, install manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn streamlit
-```
-
----
-
 ## ▶️ How to Run
 
 ### 🔹 Step 1: Place Datasets
